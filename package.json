@@ -1,0 +1,25 @@
+{
+  "name": "typescriptooplearning",
+  "version": "1.0.0",
+  "description": "In this project the idea is to practice and learn the using of design patterns, SOLID and OOP, for my introduction to Automation QA path and part of the overall Journey",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "(npx parcel ./index.html) & npx parcel watch ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neyalix/TypeScriptOOPLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Neyalix/TypeScriptOOPLearning/issues"
+  },
+  "homepage": "https://github.com/Neyalix/TypeScriptOOPLearning#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "prettier": "3.8.1"
+  }
+}
