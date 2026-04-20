@@ -1,6 +1,6 @@
-// // regular customer, should get 10 %
-// // premium customer, should get 20 %
-// // gold cutomerm, should get 30 %
+// regular customer, should get 10 %
+// premium customer, should get 20 %
+// gold cutomerm, should get 30 %
 
 // interface Customer {
 //   giveDiscount(): number;
